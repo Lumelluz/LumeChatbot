@@ -1,12 +1,12 @@
 <div align="center">
-  <h1>📁 LumeChatBot</h1>
+  <h1>📁 LumeChatbot</h1>
 </div>
 
 ---
 
 ## 📖 Descrição
 
-**Lume Chat Bot** é a inteligência artificial, Aurora, que auxilia o marketplace sustentável Lume, desenvolvida em Node.js.  
+**Lume Chatbot** é a inteligência artificial, Aurora, que auxilia o marketplace sustentável Lume, desenvolvida em Node.js.  
 Ela processa dados, recomenda produtos e interage com o Front-end em React via API REST para melhorar a experiência do usuário.
 
 ---
