@@ -5,7 +5,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-const GEMINI_API_KEY = "AIzaSyBv9T50Yqu_uL69HLrAaHBbNjSSZp5J-vw" // {Colocar Api Key do Gemini aqui, ver com o Gustavo Mandu}
+const GEMINI_API_KEY = "api_key" // {Colocar Api Key do Gemini aqui, ver com o Gustavo Mandu}
 const GEMINI_MODEL_NAME = "gemini-1.5-flash-latest";
 const GEMINI_API_URL = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL_NAME}:generateContent?key=${GEMINI_API_KEY}`;
 
